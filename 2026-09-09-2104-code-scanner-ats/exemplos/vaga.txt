@@ -1,0 +1,3 @@
+Vaga: Desenvolvedor(a) Backend Python
+Buscamos profissional com experiência em Python, Django, PostgreSQL, Docker e testes automatizados.
+Diferenciais: AWS, Kubernetes, CI/CD.

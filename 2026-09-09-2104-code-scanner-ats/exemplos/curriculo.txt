@@ -1,0 +1,13 @@
+Maria Souza
+maria.souza@example.com
+(21) 91234-5678
+
+Experiência
+Desenvolvedora Python há 3 anos. Trabalhei com Django e PostgreSQL em
+projetos de médio porte, sempre com testes automatizados via pytest.
+
+Educação
+Bacharelado em Sistemas de Informação.
+
+Habilidades
+Python, Django, PostgreSQL, Git, Linux.
