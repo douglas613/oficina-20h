@@ -1,0 +1,10 @@
+{
+  "name": "repropositor-conteudo",
+  "version": "1.0.0",
+  "description": "Transforma um artigo/post longo em thread X, post LinkedIn e legenda Instagram, sem dependencias externas.",
+  "main": "repropositor.js",
+  "scripts": {
+    "test": "node --test tests/repropositor.test.js"
+  },
+  "license": "MIT"
+}
